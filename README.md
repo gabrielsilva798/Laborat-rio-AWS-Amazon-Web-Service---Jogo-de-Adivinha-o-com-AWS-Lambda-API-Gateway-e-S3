@@ -61,10 +61,10 @@ Fluxo da aplicação:
 
 ## 🎬 Demonstração  
 
-<video controls>
-  <source src="video/Jogo_de_Adivinhação_2025-06-05_17-31-21.mp4" type="video/mp4">
-</video>
-  
+<a href="https://youtu.be/GIPgTv5JRyY" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">
+Assista a demonstração clicando aqui
+</a>
+
 
 ---
 
