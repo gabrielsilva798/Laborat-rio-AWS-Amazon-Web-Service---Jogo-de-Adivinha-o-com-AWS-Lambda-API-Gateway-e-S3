@@ -61,7 +61,7 @@ Fluxo da aplicação:
 
 ## 🎬 Demonstração  
 
-<a href="https://youtu.be/GIPgTv5JRyY" style="padding: 10px 20px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px;">
+<a href="https://youtu.be/GIPgTv5JRyY" target="_blank">Clique aqui
 Assista a demonstração clicando aqui
 </a>
 
