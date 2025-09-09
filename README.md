@@ -61,7 +61,10 @@ Fluxo da aplicação:
 
 ## 🎬 Demonstração  
 
-👉 *(Aqui você pode colocar o vídeo do site funcionando)*  
+<video controls>
+  <source src="video/Jogo_de_Adivinhação_2025-06-05_17-31-21.mp4" type="video/mp4">
+</video>
+  
 
 ---
 
@@ -76,4 +79,14 @@ Após finalizar os testes, lembre-se de excluir os recursos para evitar custos n
 ---
 
 ## 📸 Prints  De Cada Etapa feita.
- 
+![Logo](imagens/Captura1.png)
+![Logo](imagens/Captura2.png)
+![Logo](imagens/Captura3.png)
+![Logo](imagens/Captura4.png)
+![Logo](imagens/Captura5.png)
+![Logo](imagens/Captura6.png)
+![Logo](imagens/Captura7.png)
+![Logo](imagens/Captura8.png)
+![Logo](imagens/Captura9.png)
+![Logo](imagens/Captura10.png)
+![Logo](imagens/Captura11.png)
